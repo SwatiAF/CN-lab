@@ -1,2 +1,2 @@
-# CNS
+# CN
 Computer Networks Lab
