@@ -25,6 +25,8 @@
     IP addr. = `40.0.0.1`
     gateway = `40.0.0.10`
     
+![image](https://user-images.githubusercontent.com/83855603/201946917-6e3235d3-c2bb-4321-877a-8b3d5241a0dc.png)
+    
 ![image](https://user-images.githubusercontent.com/83855603/201749681-f13e42f1-74f0-4bd9-a056-1573f83e0d84.png)
 
 6. for the Router0, the first gateway is set to IP address of `10.0.0.10` which is as same as gateway of PC0
@@ -48,6 +50,9 @@
 
 - CLI commands for Router2
 
-
+![image](https://user-images.githubusercontent.com/83855603/201950094-4edb8ef1-d214-49c4-9883-aa0885f3b64d.png)
   
-7. 
+7. after all proper connections, the lights at all ends will be green indicating that the connection is established.
+
+![image](https://user-images.githubusercontent.com/83855603/201951496-fecf8b5a-a7fe-4a25-9f2a-3313fc87f4ec.png)
+
