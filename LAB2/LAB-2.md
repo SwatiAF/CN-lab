@@ -56,3 +56,17 @@
 
 ![image](https://user-images.githubusercontent.com/83855603/201951496-fecf8b5a-a7fe-4a25-9f2a-3313fc87f4ec.png)
 
+8. Teaching the Router0 about the 30.0.0.0 and 40.0.0.0 networks
+
+![image](https://user-images.githubusercontent.com/83855603/202365282-a9be57c7-d61b-4b62-90a7-a97adb9c84cc.png)
+
+9. Teaching the Router1 about the 10.0.0.0 and 40.0.0.0 networks
+
+![image](https://user-images.githubusercontent.com/83855603/202366235-f7924058-bd61-4368-856d-1483bcb2660d.png)
+
+10. Teaching the Router2 about the 10.0.0.0 and 20.0.0.0 networks
+
+![image](https://user-images.githubusercontent.com/83855603/202367073-70fe6ab2-e5e4-4cb2-bed5-5611e5e80a46.png)
+
+ 
+
