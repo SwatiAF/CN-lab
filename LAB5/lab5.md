@@ -2,7 +2,7 @@
 
 ### Topology
 
-![image](https://user-images.githubusercontent.com/83855603/205564193-da73b80c-a420-44e8-bc82-dfc7e1b12f93.png)
+![image](https://user-images.githubusercontent.com/83855603/205573737-864dd120-ef60-4ba9-af99-17dadb2421c0.png)
 
 ### Setting up the router settings
 
