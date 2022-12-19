@@ -1,4 +1,4 @@
-// CRC at receiver and sender - binary division
+#CRC at receiver and sender - binary division
 
 def xor(a, b):
 
@@ -25,7 +25,7 @@ def mod2div(dividend, divisor):
 
 			tmp = xor(divisor, tmp) + dividend[pick]
 
-		else: # all-0s divisor.
+		else:
 			tmp = xor('0'*pick, tmp) + dividend[pick]
 
 		pick += 1
@@ -51,5 +51,11 @@ def encodeData(data, key):
 		codeword)
 
 data = "100100"
-key = "1101"
+key = "10001000000100001"
 encodeData(data, key)
+
+
+#Output:
+
+#remainder: 0110010011100110
+#encoded data (dataword appended with remainder): 1001000110010011100110
